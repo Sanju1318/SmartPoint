@@ -1,3 +1,20 @@
+# SmartPoint E-Commerce Website
+
+A Mern-stack Electronic Gadget e-commerce website built using React, Express, Node.js, and MongoDB.
+
+## Features
+- Gadget listing
+- Add to cart
+- User authentication
+- Order management
+- Responsive design
+
+## Tech Stack
+- React
+- Express
+- Node.js
+- MongoDB
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
